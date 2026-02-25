@@ -1,8 +1,11 @@
 Draft Outline for Conducting the year-long effort to update the SISO Governing Documents
 
 The hierarchy of governing documents and constraints for SISO, Inc, a not-for-profit Florida Corporation
-    Statutes:  Florida Statutes for not-for-profit Corporations 
+    Statutes:  Florida Statutes for not-for-profit Corporations available at this link:
+    https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0617/0617ContentsIndex.html
+    
     Statutes:  U.S. Internal Revenue Services legal requirements for not-for-profit Corporations
+    
     Articles of Incorporation
     By-Laws
     Standing Resolutions of the SISO Inc. Board of Directors

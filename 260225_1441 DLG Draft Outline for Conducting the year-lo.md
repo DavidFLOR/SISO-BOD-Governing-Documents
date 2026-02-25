@@ -12,3 +12,5 @@ General Plan
     First, finish the conversion of the PDF version of the By-Laws to an editable document in Microsoft Word and/or Google Docs
     Second, re-organize for clarity and bring up to date the existing Microsoft Word file of the Standing Resolutions
     Third, create a working group to explore what changes to the By-Laws and/or Standing Resolutions the current Board of Directors considers to be recommended to bring the SISO Inc. governance more up to date, i.e. more in line with current communication methods, available tools and the like
+
+[Note to self; just edited this file directly in the Github repo to make sure that works with a .MD file]
